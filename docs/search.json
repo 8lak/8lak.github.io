@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About Me",
+    "section": "📜 About Me",
+    "text": "📜 About Me\nI’m Blake. I was born in La Ceiba, Honduras, and now live in Saint Paul, Minnesota. I enjoy analyzing data and discovering patterns. I use AI, data feature engineering, and machine learning to explore how data interacts with itself. I have a strong interest in the stock market and often experiment with different indicators to quantify their predictability in combination with others. Ultimately, I enoy uncovering the underlying patterns in daily life and understanding how they affect us as individuals. I also enjoy running and reading as hobbies."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "Welcome to my portfolio! This site showcases my projects, skills, and experience in data science, machine learning, and analytics.\n\n\nHere are some projects I’ve worked on:\n\nBacktesting & ML: A Python-based backtesting framework with integrated machine learning for financial trading strategies.\nUnsupervised Artist Analysis: Clustering and dimensionality reduction techniques applied to artist datasets to find similarities and patterns.\nMore Projects → (Click to view all projects)\n\n\n\n\n\nGitHub: github.com/8lak\nLinkedIn: Your LinkedIn Profile\nEmail: bkell@macalester.edu"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "Here are some projects I’ve worked on:\n\nBacktesting & ML: A Python-based backtesting framework with integrated machine learning for financial trading strategies.\nUnsupervised Artist Analysis: Clustering and dimensionality reduction techniques applied to artist datasets to find similarities and patterns.\nMore Projects → (Click to view all projects)"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "GitHub: github.com/8lak\nLinkedIn: Your LinkedIn Profile\nEmail: bkell@macalester.edu"
+  }
+]

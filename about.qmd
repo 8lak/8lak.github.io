@@ -1,9 +1,12 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
 About this site
 
-```{r}
-1 + 1
-```
+## 📜 About Me
+I'm Blake. I was born in La Ceiba, Honduras, and now live in Saint Paul, Minnesota. I enjoy analyzing data and discovering patterns. I use AI, data feature engineering, and machine learning to explore how data interacts with itself. I have a strong interest in the stock market and often experiment with different indicators to quantify their predictability in combination with others. Ultimately, I enjoy uncovering the underlying patterns in daily life and understanding how they affect us as individuals. I also enjoy running and reading as hobbies. 
+
+---
+
+
