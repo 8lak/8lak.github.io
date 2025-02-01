@@ -3,15 +3,7 @@ title: "Home"
 about:
   id: intro-heading
   template: trestles
-  image: images/profilepic.jpg
-  links:
-    - icon: twitter
-      href: https://twitter.com/yourusername
-    - icon: github
-      href: https://github.com/yourusername
-format: html
-page-layout: full
-title-block-banner: true
+  
 ---
 
 # Hi, I'm Blake Kell    
