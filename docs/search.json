@@ -16,21 +16,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to My Portfolio",
+    "title": "Home",
     "section": "",
     "text": "Welcome to my portfolio! This site showcases my projects, skills, and experience in data science, machine learning, and analytics.\n\n\nHere are some projects I’ve worked on:\n\nBacktesting & ML: A Python-based backtesting framework with integrated machine learning for financial trading strategies.\nUnsupervised Artist Analysis: Clustering and dimensionality reduction techniques applied to artist datasets to find similarities and patterns.\nMore Projects → (Click to view all projects)\n\n\n\n\n\nGitHub: github.com/8lak\nLinkedIn: Your LinkedIn Profile\nEmail: bkell@macalester.edu"
   },
   {
     "objectID": "index.html#featured-projects",
     "href": "index.html#featured-projects",
-    "title": "Welcome to My Portfolio",
+    "title": "Home",
     "section": "",
     "text": "Here are some projects I’ve worked on:\n\nBacktesting & ML: A Python-based backtesting framework with integrated machine learning for financial trading strategies.\nUnsupervised Artist Analysis: Clustering and dimensionality reduction techniques applied to artist datasets to find similarities and patterns.\nMore Projects → (Click to view all projects)"
   },
   {
     "objectID": "index.html#get-in-touch",
     "href": "index.html#get-in-touch",
-    "title": "Welcome to My Portfolio",
+    "title": "Home",
     "section": "",
     "text": "GitHub: github.com/8lak\nLinkedIn: Your LinkedIn Profile\nEmail: bkell@macalester.edu"
   }
