@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -114,23 +113,14 @@ ul.task-list li input[type="checkbox"] {
       <h1 class="title">Welcome to My Portfolio</h1>
                       </div>
   </div>
-    
-  
   <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
     </div>
-    
-  
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
-   
   <ul>
   <li><a href="#hi-im-blake-kell" id="toc-hi-im-blake-kell" class="nav-link active" data-scroll-target="#hi-im-blake-kell">Hi, I’m Blake Kell</a>
   <ul class="collapse">
@@ -141,26 +131,38 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<div class="quarto-about-trestles content column-page-left">
+  <div class="about-entity">
+    <img src="images/profilepic.jpg" class="about-image
+  rounded " style="width: 20em;">
 
-
-
-
+    <div class="about-links">
+  <a href="https://twitter.com/yourusername" class="about-link" rel="" target="">
+    <i class="bi bi-twitter"></i>
+     <span class="about-link-text"></span>
+  </a>
+  <a href="https://github.com/yourusername" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text"></span>
+  </a>
+</div>
+  </div>
+  <div class="about-contents"><main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 <section id="hi-im-blake-kell" class="level1">
 <h1>Hi, I’m Blake Kell</h1>
 <p>Welcome to my portfolio! This site showcases my projects, skills, and experience in data science, machine learning, and analytics.</p>
 <section id="featured-projects" class="level2">
-<h2 class="anchored" data-anchor-id="featured-projects">Featured Projects</h2>
+<h2 data-anchor-id="featured-projects">Featured Projects</h2>
 <p>Here are some projects I’ve worked on:</p>
 <ul>
-<li><strong><a href="https://github.com/8lak/BacktestingandML">Backtesting &amp; ML</a></strong>: <em>A Python-based backtesting framework with integrated machine learning for financial trading strategies.</em></li>
-<li><strong><a href="https://github.com/8lak/Unsupervised_Artist_Analysis">Unsupervised Artist Analysis</a></strong>: <em>Clustering and dimensionality reduction techniques applied to artist datasets to find similarities and patterns.</em></li>
-<li><strong><a href="https://github.com/8lak?tab=repositories">More Projects →</a></strong> <em>(Click to view all projects)</em></li>
+<li><a href="https://github.com/8lak/BacktestingandML"><strong>Backtesting &amp; ML</strong></a>: <em>A Python-based backtesting framework with integrated machine learning for financial trading strategies.</em></li>
+<li><a href="https://github.com/8lak/Unsupervised_Artist_Analysis"><strong>Unsupervised Artist Analysis</strong></a>: <em>Clustering and dimensionality reduction techniques applied to artist datasets to find similarities and patterns.</em></li>
+<li><a href="https://github.com/8lak?tab=repositories"><strong>More Projects →</strong></a> <em>(Click to view all projects)</em></li>
 </ul>
 </section>
 <section id="get-in-touch" class="level2">
-<h2 class="anchored" data-anchor-id="get-in-touch">📬 Get in Touch</h2>
+<h2 data-anchor-id="get-in-touch">📬 Get in Touch</h2>
 <ul>
 <li><strong>GitHub</strong>: <a href="https://github.com/8lak">github.com/8lak</a></li>
 <li><strong>LinkedIn</strong>: <a href="#">Your LinkedIn Profile</a></li>
@@ -170,8 +172,9 @@ ul.task-list li input[type="checkbox"] {
 
 </section>
 </section>
-
-</main> <!-- /main -->
+</main></div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -192,13 +195,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

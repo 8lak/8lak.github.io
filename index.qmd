@@ -1,5 +1,14 @@
 ---
 title: "Welcome to My Portfolio"
+about:
+  id: intro-heading
+  template: trestles
+  image: images/profilepic.jpg
+  links:
+    - icon: twitter
+      href: https://twitter.com/yourusername
+    - icon: github
+      href: https://github.com/yourusername
 format: html
 page-layout: full
 title-block-banner: true
@@ -9,15 +18,16 @@ title-block-banner: true
 
 Welcome to my portfolio! This site showcases my projects, skills, and experience in data science, machine learning, and analytics.
 
-##  Featured Projects
+## Featured Projects
+
 Here are some projects I’ve worked on:
 
-- **[Backtesting & ML](https://github.com/8lak/BacktestingandML)**: *A Python-based backtesting framework with integrated machine learning for financial trading strategies.*
-- **[Unsupervised Artist Analysis](https://github.com/8lak/Unsupervised_Artist_Analysis)**: *Clustering and dimensionality reduction techniques applied to artist datasets to find similarities and patterns.*
-- **[More Projects →](https://github.com/8lak?tab=repositories)** _(Click to view all projects)_
-
+-   [**Backtesting & ML**](https://github.com/8lak/BacktestingandML): *A Python-based backtesting framework with integrated machine learning for financial trading strategies.*
+-   [**Unsupervised Artist Analysis**](https://github.com/8lak/Unsupervised_Artist_Analysis): *Clustering and dimensionality reduction techniques applied to artist datasets to find similarities and patterns.*
+-   [**More Projects →**](https://github.com/8lak?tab=repositories) *(Click to view all projects)*
 
 ## 📬 Get in Touch
-- **GitHub**: [github.com/8lak](https://github.com/8lak)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [bkell@macalester.edu](mailto:bkell@macalester.edu)
+
+-   **GitHub**: [github.com/8lak](https://github.com/8lak)
+-   **LinkedIn**: [Your LinkedIn Profile](#)
+-   **Email**: [bkell\@macalester.edu](mailto:bkell@macalester.edu)
