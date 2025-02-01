@@ -1,9 +1,5 @@
 ---
 title: "Home"
-about:
-  id: intro-heading
-  template: trestles
-  
 ---
 
 # Hi, I'm Blake Kell    
